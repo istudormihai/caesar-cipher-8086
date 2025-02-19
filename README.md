@@ -1,7 +1,7 @@
 # Caesar Cipher in 8086 Assembly  
 
 ##  Overview  
-The **Caesar Cipher** is a classic encryption technique used since the time of Julius Caesar to securely transmit messages. It works by shifting each letter in the plaintext by a fixed number of positions in the alphabet. This project implements the Caesar Cipher in 8086 Assembly, allowing the user to input a message and a shift value, then displaying the encrypted output.  
+The Caesar Cipher is a classic encryption technique used since the time of Julius Caesar to securely transmit messages. It works by shifting each letter in the plaintext by a fixed number of positions in the alphabet. This project implements the Caesar Cipher in 8086 Assembly, allowing the user to input a message and a shift value, then displaying the encrypted output.  
 
 ##  How It Works  
 1. The program first displays a title and prompts the user for:  
